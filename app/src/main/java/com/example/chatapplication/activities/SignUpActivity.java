@@ -80,8 +80,6 @@ public class SignUpActivity extends AppCompatActivity {
                     firebaseAuth.getCurrentUser().sendEmailVerification();
                     //firebaseAuth.signOut();
                     addAccountToDatabase();
-                    startActivity(new Intent(getApplicationContext(),SignInActivity.class));
-                    finish();
                 }else{
                     //failure
                     showToast(task.getException().getLocalizedMessage());
