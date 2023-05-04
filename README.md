@@ -20,30 +20,33 @@ completed chat application using firebase in android studio
 
 ![selection_2](https://user-images.githubusercontent.com/121479325/235436492-6722d39a-5719-402e-a62e-3e2a5017c249.png)
 
-# USER DETAILS 
+# USER1 DETAILS 
 
-![Screenshot_2023-05-01-14-46-14](https://user-images.githubusercontent.com/121479325/235435192-17401236-36cd-45ed-bc1a-c5fb6a60628c.jpg)
+![user2_1](https://user-images.githubusercontent.com/121479325/236098962-9a45236d-c46d-4a04-86ad-52ac9ecf1c62.jpg)
 
-![Screenshot_20230501-144520](https://user-images.githubusercontent.com/121479325/235435210-c4127ea1-1693-434b-b416-fcf1e9993d2d.jpg)
+![user2_2](https://user-images.githubusercontent.com/121479325/236098987-94447d51-15fe-4f6f-a18e-505336957b07.jpg)
 
-# FIRST USER
+![user2_3](https://user-images.githubusercontent.com/121479325/236098960-1c3c4091-09cf-4332-af95-593ed70007e3.jpg)
 
-![Screenshot_2023-05-01-14-46-01](https://user-images.githubusercontent.com/121479325/235435188-bf131ac1-32fb-4c35-b03b-14fc4f445adc.jpg)
+![user2_4](https://user-images.githubusercontent.com/121479325/236098979-c4f92c09-2941-41d3-8536-e51d5b71f2eb.jpg)
 
-![Screenshot_2023-05-01-14-46-29](https://user-images.githubusercontent.com/121479325/235435195-7c7b9749-902e-4d11-b92f-e4c5f5985eff.jpg)
+![user2_5](https://user-images.githubusercontent.com/121479325/236098975-767ecafb-ead9-4575-919f-0cb551215ac0.jpg)
 
-![Screenshot_2023-05-01-14-46-49](https://user-images.githubusercontent.com/121479325/235435198-1984e752-604a-471c-a3d2-0cb8ed6257c6.jpg)
+![user2_6](https://user-images.githubusercontent.com/121479325/236098972-ffecf21a-a578-43a8-8057-077389a95437.jpg)
 
-![Screenshot_2023-05-01-14-48-10](https://user-images.githubusercontent.com/121479325/235435199-b84ec93e-640e-41a5-bbe3-567d879c9496.jpg)
+# USER2 DETAILS 
 
-# SECOND USER
+![user1_1](https://user-images.githubusercontent.com/121479325/236098964-791aa3dc-10a6-4d59-8959-6fd38cd498f0.jpg)
 
+![user1_3](https://user-images.githubusercontent.com/121479325/236098954-b6db9409-bf44-4d0a-bdb7-6aab62b7a555.jpg)
 
-![Screenshot_20230501-144515](https://user-images.githubusercontent.com/121479325/235435207-f0fd90c8-376e-447b-b9fc-14005c7922a4.jpg)
+![user1_2](https://user-images.githubusercontent.com/121479325/236098990-f61254a1-8694-434e-9e6d-2389903c01c9.jpg)
 
-![Screenshot_20230501-144643](https://user-images.githubusercontent.com/121479325/235435212-b0148f3e-3174-45ee-aa14-f7e37a82efbe.jpg)
+![user1_4](https://user-images.githubusercontent.com/121479325/236098984-253a23b1-638e-43eb-8650-1efd0e6c94ac.jpg)
 
-![Screenshot_20230501-144738](https://user-images.githubusercontent.com/121479325/235435219-3cae8d64-b292-4008-a458-e7042e5d442a.jpg)
+![user1_5](https://user-images.githubusercontent.com/121479325/236098973-1061ebc2-e351-4d3e-acf4-8ce21c0f99f9.jpg)
+
+![user1_6](https://user-images.githubusercontent.com/121479325/236098970-415c7304-5f20-43c6-8611-1abb569287fb.jpg)
 
 # NOTIFICATION
 
