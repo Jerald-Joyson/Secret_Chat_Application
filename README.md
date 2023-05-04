@@ -50,4 +50,6 @@ completed chat application using firebase in android studio
 
 # NOTIFICATION
 
-![Screenshot_20230501-144730](https://user-images.githubusercontent.com/121479325/235435217-13072ed4-2383-4eec-bfc3-7a25b971be5e.jpg)
+![Screenshot_20230504-081514](https://user-images.githubusercontent.com/121479325/236100996-5784dac6-ec37-4c40-9777-5c50e498f5b9.jpg)
+
+![Screenshot_20230504-081748](https://user-images.githubusercontent.com/121479325/236100987-f8fa43fe-3b8b-466e-aa1d-78eaffc626d9.jpg)
